@@ -591,4 +591,4 @@ export const abi = {
     "deployedLinkReferences": {}
   }
   
-export const NFT_CONTRACT_ADDRESS = "0x114A0964D33Bec5D243B66Cc0f3164028688551c"
+export const NFT_CONTRACT_ADDRESS = "0x19302d33e2F1593fcc1448c970D5F1f2E783fba6"
